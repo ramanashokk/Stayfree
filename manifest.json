@@ -1,0 +1,10 @@
+{
+  "name": "Stayfree",
+  "short_name": "Stayfree",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080809",
+  "theme_color": "#080809",
+  "orientation": "portrait",
+  "icons": []
+}
